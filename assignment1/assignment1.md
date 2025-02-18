@@ -69,3 +69,5 @@ In this Kaggle competition, you will develop Machine Learning models to predict 
 -   **Interpretation:** Discuss what your results imply about donor splice site prediction.
 -   **Strengths and Limitations:** Reflect on the advantages of your approach and potential limitations.
 -   **Future Work:** Suggest avenues for further research or model improvements.
+
+## The full report should be no more than 1500 words.
