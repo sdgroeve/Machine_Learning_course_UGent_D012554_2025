@@ -6,7 +6,7 @@ Gene splicing is a crucial biological process in which introns (non-coding regio
 
 **Competition Overview**
 
-In this Kaggle competition, you will develop Machine Learning models to predict donor splice sites using DNA sequence data. Each data point consists of a DNA segment with 200 base pairs (bp) upstream and 200 bp downstream from the canonical "GT" donor site.
+In this Kaggle competition, you will develop Machine Learning models to predict donor splice sites from DNA sequence data. Each data point consists of a DNA segment with 200 base pairs (bp) upstream and 200 bp downstream from the canonical "GT" donor site.
 
 **Week 1: Baseline Model**
 
