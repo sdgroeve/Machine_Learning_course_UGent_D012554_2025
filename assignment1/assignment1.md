@@ -1,4 +1,4 @@
-## Project Assignment: Donor Splice Site Prediction**
+## Project Assignment: Donor Splice Site Prediction
 
 **Background and Introduction to Gene Splicing**
 
@@ -6,7 +6,7 @@ Gene splicing is a crucial biological process in which introns (non-coding regio
 
 **Competition Overview**
 
-In this Kaggle competition, you will develop machine learning models to predict donor splice sites using DNA sequence data. Each data point consists of a DNA segment with 200 base pairs (bp) upstream and 200 bp downstream from the canonical "GT" donor site.
+In this Kaggle competition, you will develop Machine Learning models to predict donor splice sites from DNA sequence data. Each data point consists of a DNA segment with 200 base pairs (bp) upstream and 200 bp downstream from the canonical "GT" donor site.
 
 **Week 1: Baseline Model**
 
@@ -44,28 +44,30 @@ In this Kaggle competition, you will develop machine learning models to predict 
 
 -   A concise and descriptive title of your project.
 
-3.  **Abstract** (150-250 words)
+2.  **Abstract** (150-250 words)
 
 -   **Purpose:** Briefly describe the objective of the study.
 -   **Methods:** Summarize the approach and key methods used.
 -   **Results:** Highlight the main findings.
 -   **Conclusion:** State the significance of the results.
 
-5.  **Materials and Methods**
+3.  **Materials and Methods**
 
 -   **Data Description:** Describe the dataset used (e.g., the sequence context around the "GT" site).
 -   **Feature Engineering:** Explain the one-hot encoding and any additional features used.
 -   **Modeling Approach:** Summarize the baseline model and any advanced techniques applied.
 -   **Evaluation Metrics:** List the metrics used to assess model performance.
 
-7.  **Results**
+4.  **Results**
 
 -   **Main Findings:** Summarize key results from your analysis.
 -   **Figure:** Include one figure (e.g., ROC curve, feature importance, or a comparison of model performances).
 -   **Table:** Provide one table summarizing key performance metrics or model comparisons.
 
-9.  **Discussion**
+5.  **Discussion**
 
 -   **Interpretation:** Discuss what your results imply about donor splice site prediction.
 -   **Strengths and Limitations:** Reflect on the advantages of your approach and potential limitations.
 -   **Future Work:** Suggest avenues for further research or model improvements.
+
+## The full report should be no more than 1500 words.
