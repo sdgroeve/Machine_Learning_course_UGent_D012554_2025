@@ -64,7 +64,6 @@ You are required to submit one comprehensive Kaggle Notebook that includes both 
 
 ### Submission Guidelines
 
--   **Deadline:** [Insert Deadline]
 -   **Submission Format:** Share your Kaggle Notebook with your instructor. Ensure the notebook runs from start to finish on Kaggle without errors.
 -   **Evaluation Criteria:**
     -   Clear and modular code.

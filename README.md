@@ -1,6 +1,6 @@
-# Machine & Deep Learning Course Ghent Univeristy (D012554)
+# Machine & Deep Learning Course
 
-Course materials for the course Machine Learning Methods for Biomedical Data (D012554)[https://studiekiezer.ugent.be/2023/studiefiche/en/D012554].
+Course materials for the course Machine Learning Methods for Biomedical Data [D012554](https://studiekiezer.ugent.be/2023/studiefiche/en/D012554).
 This course is taught to Biomedical Sciences students at the Department of Biomolecular Medicine, Faculty of Medicine and Health Sciences, Ghent University.
 
 The following topics are included:

@@ -8,22 +8,20 @@ Gene splicing is a crucial biological process in which introns (non-coding regio
 
 In this Kaggle competition, you will develop Machine Learning models to predict donor splice sites from DNA sequence data. Each data point consists of a DNA segment with 200 base pairs (bp) upstream and 200 bp downstream from the canonical "GT" donor site.
 
-**Week 1: Baseline Model**
+**Part 1: Baseline Model**
 
 -   **Objective:** Build a baseline model using a restricted context.
 -   **Data Context:** Instead of using the full 400 bp window, limit your input sequence to 6 bp upstream and 6 bp downstream of the "GT" donor site (total 12 bp).
 -   **Feature Engineering:** Use one-hot encoding for the nucleotide sequence.
 -   **Modeling:** Fit a simple machine learning model (e.g., logistic regression, decision tree, or any baseline classifier) on the one-hot encoded features.
--   **Deliverables for Week 1:**
+-   **Deliverables:**
 
 -   An executable Jupyter notebook containing your code.
 -   A Kaggle submission file containing your predictions.
 
-**Subsequent Weeks: Advanced Modeling**
+**Part 2: Advanced Modeling**
 
--   **Objective:** Enhance your model with extensive feature engineering and model optimization.
--   **Tasks:**
-
+-   Enhance your model with extensive feature engineering and model optimization.
 -   Experiment with different sequence representations (e.g., k-mer embeddings, physicochemical properties, or other custom features).
 -   Try advanced machine learning models (e.g., ensemble methods, neural networks) and optimize hyperparameters.
 -   Analyze the importance of features and the performance of your model.
@@ -44,7 +42,7 @@ In this Kaggle competition, you will develop Machine Learning models to predict 
 
 -   A concise and descriptive title of your project.
 
-2.  **Abstract** (150-250 words)
+2.  **Abstract** (max 150 words)
 
 -   **Purpose:** Briefly describe the objective of the study.
 -   **Methods:** Summarize the approach and key methods used.
