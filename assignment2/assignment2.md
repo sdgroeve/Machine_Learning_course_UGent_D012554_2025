@@ -7,9 +7,9 @@ In this assignment, you will explore the computational challenges of training co
 -   **Training a CNN from scratch**
 -   **Fine-tuning a pre-trained CNN**
 
-In addition, you will assess the impact of data augmentation on model performance. All experiments must be conducted using Kaggle’s NVidia K80 GPU.
+In addition, you will assess the impact of data augmentation on model performance. 
 
-> **Note:** The dataset is already pre-processed. There is no need for data cleaning or exploration.
+> **Note:** Starter notebook on Kaggle: https://www.kaggle.com/code/svendegroeve/d012554a-pathmnist-assignment
 
 ----------
 
