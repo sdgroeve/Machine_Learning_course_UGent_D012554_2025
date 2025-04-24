@@ -58,7 +58,6 @@ You are required to submit one comprehensive Kaggle Notebook that includes both 
     
     -   **Analysis:** Compare the performance and training times between the two approaches.
     -   **Data Augmentation Impact:** Discuss the effect of data augmentation on model performance and any trade-offs observed.
-    -   **Observations:** Provide insights on the challenges of training on a Kaggle NVidia K80 GPU and suggestions for potential improvements.
 
 ----------
 
